@@ -1,0 +1,1 @@
+This is a permanent snapshot of totheroot.io made at 21 November 2026, viewable at https://codestar.nl/to-the-root/.
